@@ -66,9 +66,9 @@
 //    }
 
 fun main(){
-    var n:Int=90
-    var m:Int=70
-    var k:Int=60
+    var n:Int=80
+    var m:Int=79
+    var k:Int=90
 
    var sum = k+m+n
     var avrg=sum/3
